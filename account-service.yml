@@ -10,3 +10,6 @@ spring:
     database-platform: org.hibernate.dialect.MySQL5Dialect
     hibernate:
       ddl-auto: create
+
+test:
+  msg: This is the message from account-service in configserver
